@@ -20,8 +20,8 @@ criaCartao(
 )
 criaCartao(
 'Programação',
-'O que é Back-end?',
-'O Back-end compreende tudo aquilo que tem por trás de uma aplicação.'
+'Quantos livros existe no Antigo Testamento',
+'O Antigo Testamento tem 46 livros na Bíblia Católica e nas Igrejas Ortodoxas, e 39 livros no cânon Protestante.'
 )
 criaCartao(
 'Programação',
@@ -31,4 +31,5 @@ criaCartao(
 
 
 )
+
 
