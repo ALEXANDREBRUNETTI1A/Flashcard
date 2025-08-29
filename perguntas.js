@@ -15,8 +15,8 @@ criaCartao(
 )
 criaCartao(
 'Programação',
-'O que é Front-end?',
-' O Front-end compreende a parte visual de sites e aplicações.'
+'O que se trata do Antigo Testamento?',
+'Narra a história da criação do mundo, a relação de Deus com o povo de Israel, suas leis e o cumprimento de profecias.'
 )
 criaCartao(
 'Programação',
@@ -31,3 +31,4 @@ criaCartao(
 
 
 )
+
