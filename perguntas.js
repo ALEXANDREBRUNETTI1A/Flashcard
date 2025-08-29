@@ -25,11 +25,12 @@ criaCartao(
 )
 criaCartao(
 'Programação',
-'O que é Full Stack?',
+'Quantos livros existe no Novo Testamento?',
 
-'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Backend',
+'27 livros.',
 
 
 )
+
 
 
