@@ -1,7 +1,7 @@
 criaCartao(
 'Programação',
-'O que é HTML?',
-'O HTML (Linguagem de Marcação de HiperTexto)'
+'Quem mais sofreu, segundo a biblia?',
+'Jeremias'
 )
 criaCartao(
 'Programação',
