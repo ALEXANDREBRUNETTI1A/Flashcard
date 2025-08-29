@@ -5,7 +5,7 @@ criaCartao(
 )
 criaCartao(
 'Programação',
-'O que está escrito no Salmo 119:1?',
+'O que está escrito no Salmo 119:11?',
 'Guardo no coração as tuas palavras, para não pecar contra ti.'
 )
 criaCartao(
