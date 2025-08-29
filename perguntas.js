@@ -10,8 +10,8 @@ criaCartao(
 )
 criaCartao(
 'Programação',
-'O que é JavaScript?',
-'O JavaScript é uma linguagem de programação.'
+'Quem escreveu o Salmo 91?',
+'Moisés.'
 )
 criaCartao(
 'Programação',
@@ -28,5 +28,6 @@ criaCartao(
 'O que é Full Stack?',
 
 'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Backend',
+
 
 )
