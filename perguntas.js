@@ -5,8 +5,8 @@ criaCartao(
 )
 criaCartao(
 'Programação',
-'O que é CSS?',
-'O CSS é uma linguagem de estilização.'
+'O que está escrito no Salmo 119:1?',
+'Guardo no coração as tuas palavras, para não pecar contra ti.'
 )
 criaCartao(
 'Programação',
